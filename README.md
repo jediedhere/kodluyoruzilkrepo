@@ -12,7 +12,7 @@ git clone https://github.com/https://github.com/jediedhere/kodluyoruzilkrepo
 
 ## Usage
 
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Projeyi clonelayıp Visual Studio üzerinde yaptım git sistemi ile GITHub'a yükledim.
 
 ```
 cd kodluyoruzilkrepo
@@ -25,4 +25,4 @@ Pull requestler kabul edilir. Büyük değiiklikler için, lütfen önce neyi de
 
 ## License
 
-[MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
+[MIT](https://choosealicense.com/licenses/mit/)
